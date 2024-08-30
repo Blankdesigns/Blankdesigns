@@ -2,7 +2,6 @@
 - 👀 I’m interested in front end development, data analysis
 - 🌱 I’m currently learning Microsoft Power BI
 - 💞️ I’m looking to collaborate on website development and data analysis
-- 📫 How to reach me ebun.sonuyi@gmail.com
 
 <!---
 Blankdesigns/Blankdesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
